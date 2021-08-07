@@ -1,0 +1,74 @@
+body{
+     margin: 0px;
+    padding: 0px; 
+    background-color: beige;
+}
+
+.bloc{
+    width: 80%;
+    margin: 0 auto;
+    /* border: 1px solid black; */
+    height: 1170px;
+}
+
+.etat h1{
+    background-color:pink;
+    text-align: center; 
+    margin-bottom: 5px;
+}
+.etat p{
+    margin: 0px;
+    
+}
+img{
+    width: 100px;
+    float: left;
+}
+
+.picture-right{
+    float: right;
+}
+
+.cursus h1{
+    background-color:pink;
+     /* text-align: center;  */
+    margin-bottom: 5px;
+}
+
+.cursus h3{
+    margin: 0px;
+
+}
+.connaissance h1{
+    background-color:pink;
+     /* text-align: center;  */
+     margin-bottom: 0px; 
+} 
+.connaissance h2{
+    margin:0px;
+}
+.connaissance h3{
+    margin: 0px;
+}
+
+.loisir h1{
+    background-color:pink;
+    /* text-align: center;  */
+    margin-bottom: 0px; 
+}
+.loisir h3{
+    margin: 0px;
+}
+
+.atout h1{
+    background-color:pink;
+    /* text-align: center;  */
+    margin-bottom: 0px; 
+}
+.atout h3{
+    margin: 0px;
+}
+
+.right{
+    float: right;
+}
